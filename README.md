@@ -1,4 +1,4 @@
-# Proje 1 (insertion sort projesi)
+# Proje 1 (insertion sort projesi) www.patika.dev
 
 [22,27,16,2,18,6]
 
